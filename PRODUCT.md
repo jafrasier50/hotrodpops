@@ -1,0 +1,36 @@
+# Product
+
+## Register
+
+brand
+
+## Users
+
+Houston families, car-meet crowds, and event planners (birthdays, quinceañeras, corporate events) finding Hot Rod Pops on their phone — usually outdoors, in Gulf Coast heat, deciding whether to track down the fleet or book it. Secondary: press/partners checking whether this outfit is legit.
+
+## Product Purpose
+
+Single-page brand site for Hot Rod Pops LLC — handmade Mexican-style paletas built in Houston's East End since 2015, sold off custom-built ice-pop tricycles and a flamed short bus. The site's job: make the brand feel as loud and hand-built as the fleet, show the flavors, and drive bookings (call/text/email/Instagram).
+
+## Brand Personality
+
+Candy-paint, hand-built, barrio-proud. East End Houston: lowrider and hot-rod culture, hispanic mural/graffiti heritage, H-Town pride (713, Segundo Barrio/Second Ward). Loud but craftsman — everything looks painted, striped, or sticker-bombed by hand, never corporate.
+
+## Anti-references
+
+- Generic AI landing pages: cream/beige backgrounds, eyebrow kickers on every section, identical card grids, gradient text.
+- "Graffiti font" costume (Permanent Marker / Rock Salt headlines) — the culture is carried by real photos, sign-painter layering, pinstripes and stickers, not a novelty font.
+- Corporate food-truck template sites (hero + 3 icon cards + contact form).
+- Wix/Squarespace default look the current site has.
+
+## Design Principles
+
+1. **The fleet is the brand.** Real photos of the bus, trike, pops, and founder carry every section — never replace them with illustration or stock.
+2. **Pop matches the car.** Each flavor drenches its section in its own color, like the photos (mango/orange hot rod, lime/green lowrider, strawberry/red Corvette).
+3. **Hand-built, not templated.** Sticker rotation, pinstripe flourishes, checkered strips, layered sign-painter type — details that read as shop-made.
+4. **Bilingual voice.** English drives, Spanish accents (paletas, hecho a mano, el East End) — code-switching like the neighborhood talks.
+5. **Book the fleet is the win.** Phone, text, email, Instagram always one thumb away.
+
+## Accessibility & Inclusion
+
+WCAG AA: 4.5:1 body contrast on all drenched panels, visible focus states, reduced-motion alternatives for marquee/reveals, semantic landmarks, alt text written in brand voice. Works one-handed on a phone in bright sun — big type, big targets.
