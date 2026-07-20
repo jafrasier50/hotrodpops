@@ -31,11 +31,11 @@ Strategy: Drenched dark base + full-palette flavor panels (brand register permis
 1. **Sticker system**: badges/chips rotated ±2–4°, white sticker border + hard shadow, like the sticker-bombed trike.
 2. **Pinstripes & checkers**: thin double-line pinstripe rules (Von Dutch), checkered-flag strips as section seams.
 3. **Lotería flavor cards**: each flavor framed like a lotería card — ornate inner border, number, name plate at bottom — drenched in its flavor color.
-4. **Marquee strip**: yellow ticker of shop facts (HOUSTON MADE SINCE 2015 ✦ EL ESTE DE HOUSTON ✦ 713).
+4. **Marquee strip**: yellow ticker of shop facts (MADE IN TEXAS SINCE 2015 ✦ HOUSTON, TX ✦ 713).
 
 ## Layout
 
-Single long-scroll page: hero (full-bleed fleet photo, headline overlaid) → marquee → flavors (lotería cards) → book-the-fleet (serving-window photo) → East End story (founder mural photo) → contact footer. Fluid clamp() spacing; asymmetric tilts from the sticker system, not from random rotation.
+Single long-scroll page: hero (full-bleed fleet photo, headline overlaid) → marquee → flavors (lotería cards) → book-the-fleet (serving-window photo) → Made-in-Texas story (founder mural photo) → contact footer. Fluid clamp() spacing; asymmetric tilts from the sticker system, not from random rotation.
 
 ## Motion
 
