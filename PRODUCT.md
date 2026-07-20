@@ -28,7 +28,7 @@ Candy-paint, hand-built, barrio-proud. East End Houston: lowrider and hot-rod cu
 1. **The fleet is the brand.** Real photos of the bus, trike, pops, and founder carry every section — never replace them with illustration or stock.
 2. **Pop matches the car.** Each flavor drenches its section in its own color, like the photos (mango/orange hot rod, lime/green lowrider, strawberry/red Corvette).
 3. **Hand-built, not templated.** Sticker rotation, pinstripe flourishes, checkered strips, layered sign-painter type — details that read as shop-made.
-4. **Bilingual voice.** English drives, Spanish accents (paletas, hecho a mano, el East End) — code-switching like the neighborhood talks.
+4. **Plain-spoken English voice** with East End flavor. Spanish only in standard loanwords/proper nouns (Tajín, chamoy, quinceañeras) — owner's call, July 2026.
 5. **Book the fleet is the win.** Phone, text, email, Instagram always one thumb away.
 
 ## Accessibility & Inclusion
